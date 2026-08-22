@@ -23,7 +23,7 @@ variable "location" {
 variable "logic_app_name" {
   description = "Name of the Logic App (Standard)"
   type        = string
-  default     = "logicapp-demo-app"
+  default     = "logicapp-asish1992-demo"
 }
 
 variable "storage_account_name" {
